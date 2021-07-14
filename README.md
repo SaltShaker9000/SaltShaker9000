@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SaltShaker9000
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Data structures and algorithms
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Cbrangham2006@gmail.com
 
 <!---
